@@ -2,7 +2,9 @@
 
 ### `> FATAL ERROR: Success.`
 
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="280"/>
+
+<sub>actual footage of our last deployment</sub>
 
 ---
 
@@ -81,6 +83,10 @@ This is where code comes to die with dignity. Every repo here compiled exactly o
 ```
 
 **It compiled once. That's more than most can say.**
+
+<img src="https://media.giphy.com/media/xT0xeJpnrWC3XWblEk/giphy.gif" width="220"/>
+
+<sub>us looking at our old code</sub>
 
 *"The code is dead. Long live the code."*
 
